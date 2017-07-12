@@ -1,0 +1,98 @@
+/*
+font info:
+    family - Helvetica, Arial, sans-serif
+    line-height - 1.6
+
+
+colors:
+    light gray - ##eee
+    gray - #dddddd
+    yellow - #ffd24a
+    orange - #ff8523
+    blue - #1fabe5
+    dark blue - #046c97
+*/
+
+.main_navigation a{
+  border: 0.5px solid;
+  color: white;
+  border-radius: 2px;
+  text-decoration: none;
+  padding: 5px;
+margin: -1px;
+
+
+}
+
+header{
+  background-color: #ff843c;
+  padding:15px 15px;
+  padding: 48px;
+  padding-bottom: 31px;
+
+
+}
+
+h2{
+  color: #20ABE5
+}
+
+ul{
+  border-bottom: 1px solid;
+  color: #DFDFDF;
+  padding-bottom: 1.77cm;
+}
+ul> li {
+  color: black;
+  font-weight: 500;
+}
+
+h3{
+  color: #20ABE5;
+}
+
+body{
+font-family: arial;
+width: 80%;
+margin: auto;
+background-image: url("/Users/admin/desktop/web-developer/puppy-love/Puppy/starter_files/img/bg.jpg");
+
+}
+
+
+a{
+  color: #35B3E8;
+
+}
+
+table> tbody> tr> td{
+border: 1px solid #1FABE5;
+}
+
+.container{
+  background-color: white;
+
+}
+
+.tablehead{
+}
+
+.submit_button{
+  background-color: deepskyblue;
+padding: 9px 10px;
+border-radius: 5px;
+color: white;
+
+}
+
+.bottom_half{
+  background-color: lightgray;
+  padding: 14px;
+
+}
+
+.bio {
+  padding-top: 6px;
+padding-left: 8px;
+
+}
